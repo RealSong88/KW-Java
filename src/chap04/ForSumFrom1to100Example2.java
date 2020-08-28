@@ -9,5 +9,6 @@ public class ForSumFrom1to100Example2 {
 			sum += i;
 		}
 		System.out.println("1~100까지의 합은 : " + sum);
+		System.out.println(i);
 	}
 }

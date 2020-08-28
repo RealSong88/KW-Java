@@ -22,7 +22,7 @@ public class Exercise07 {
 			System.out.print("선택> ");
 			
 			int choice = sc.nextInt();
-			
+			// nextLine() - > Integer.parseInt("100"); 문자열 데이터를 int 형 데이터로 바꿈
 			switch (choice) {
 			case 1:
 				System.out.print("예금액> ");

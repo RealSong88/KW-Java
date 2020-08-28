@@ -21,5 +21,6 @@ public class ex02 {
 //		System.out.println(var3);
 		System.out.println(var5);
 		
+		
 	}
 }
